@@ -5,7 +5,9 @@ const Memcached = require('memcached-promisify')
 const logger = require('morgan')
 
 const db = require('./db.json')
-const memcached = new Memcached({'cacheHost': 'mc-demo.slmnwu.0001.usw1.cache.amazonaws.com:11211'})
+
+const memcachedHost = process.env.NODE_CACHE || 'localhost'
+const memcached = new Memcached({'cacheHost': memcachedHost })
 const app = express()
 const router = express.Router()
 
