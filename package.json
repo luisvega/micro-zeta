@@ -1,0 +1,22 @@
+{
+  "name": "middle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "fetch": "^1.1.0",
+    "memcached": "^2.2.2",
+    "memcached-promisify": "^2.0.0",
+    "morgan": "^1.8.2",
+    "request": "^2.81.0",
+    "uuid": "^3.1.0"
+  }
+}

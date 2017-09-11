@@ -1,0 +1,158 @@
+{    
+    "users": [
+          {
+                  "id": 0,
+                  "index": 0,
+                  "guid": "07ea4a52-4e9f-473d-b44b-10d05d21f207",
+                  "isActive": false,
+                  "age": 27,
+                  "name": "Stella Monroe",
+                  "company": "GEEKETRON",
+                  "email": "stellamonroe@geeketron.com",
+                  "phone": "+1 (819) 439-2123",
+                  "latitude": 48.080549,
+                  "longitude": -0.781283,
+                  "tags": [
+                            "commodo",
+                            "cillum",
+                            "irure",
+                            "magna",
+                            "enim",
+                            "cillum",
+                            "aliquip"
+                          ]
+                },
+          {
+                  "id": 1,
+                  "index": 1,
+                  "guid": "f1635692-37f3-4482-a3cd-08d86526be6f",
+                  "isActive": false,
+                  "age": 25,
+                  "name": "Mendez Ewing",
+                  "company": "PURIA",
+                  "email": "mendezewing@puria.com",
+                  "phone": "+1 (893) 489-2358",
+                  "latitude": -33.474615,
+                  "longitude": 34.023822,
+                  "tags": [
+                            "deserunt",
+                            "anim",
+                            "aliqua",
+                            "fugiat",
+                            "nostrud",
+                            "sit",
+                            "pariatur"
+                          ]
+                },
+          {
+                  "id": 2,
+                  "index": 2,
+                  "guid": "32f97769-3fdc-4fd8-aa5a-0b4e19aac790",
+                  "isActive": false,
+                  "age": 20,
+                  "name": "Cantrell Hurst",
+                  "company": "TASMANIA",
+                  "email": "cantrellhurst@tasmania.com",
+                  "phone": "+1 (969) 504-2755",
+                  "latitude": 12.117497,
+                  "longitude": -14.615153,
+                  "tags": [
+                            "veniam",
+                            "eiusmod",
+                            "tempor",
+                            "magna",
+                            "tempor",
+                            "magna",
+                            "ipsum"
+                          ]
+                },
+          {
+                  "id": 3,
+                  "index": 3,
+                  "guid": "84943a00-ad6c-498f-bdb1-41ef2b826273",
+                  "isActive": false,
+                  "age": 27,
+                  "name": "Chrystal Dalton",
+                  "company": "NETUR",
+                  "email": "chrystaldalton@netur.com",
+                  "phone": "+1 (828) 525-3070",
+                  "latitude": -66.637646,
+                  "longitude": -107.174437,
+                  "tags": [
+                            "minim",
+                            "ea",
+                            "ad",
+                            "ad",
+                            "nostrud",
+                            "elit",
+                            "eiusmod"
+                          ]
+                },
+          {
+                  "id": 4,
+                  "index": 4,
+                  "guid": "4e1cc529-af7a-4f49-a2d5-dc3281c3ba26",
+                  "isActive": false,
+                  "age": 40,
+                  "name": "Marisa Horton",
+                  "company": "CODAX",
+                  "email": "marisahorton@codax.com",
+                  "phone": "+1 (990) 494-2924",
+                  "latitude": 43.006008,
+                  "longitude": -165.735084,
+                  "tags": [
+                            "nulla",
+                            "enim",
+                            "non",
+                            "occaecat",
+                            "aute",
+                            "ea",
+                            "enim"
+                          ]
+                },
+          {
+                  "id": 5,
+                  "index": 5,
+                  "guid": "8d520bf3-7fa0-4e2e-bdbe-b479a1febace",
+                  "isActive": true,
+                  "age": 27,
+                  "name": "Miranda Conrad",
+                  "company": "GEOFORM",
+                  "email": "mirandaconrad@geoform.com",
+                  "phone": "+1 (957) 544-2367",
+                  "latitude": 19.633312,
+                  "longitude": 25.993571,
+                  "tags": [
+                            "esse",
+                            "consectetur",
+                            "sunt",
+                            "anim",
+                            "excepteur",
+                            "deserunt",
+                            "officia"
+                          ]
+                },
+          {
+                  "id": 6,
+                  "index": 6,
+                  "guid": "f33191c1-7a2a-4e70-9d94-1d94dc71be59",
+                  "isActive": true,
+                  "age": 24,
+                  "name": "Silvia Day",
+                  "company": "FURNITECH",
+                  "email": "silviaday@furnitech.com",
+                  "phone": "+1 (944) 431-3979",
+                  "latitude": 38.401597,
+                  "longitude": 175.614406,
+                  "tags": [
+                            "duis",
+                            "aliquip",
+                            "reprehenderit",
+                            "quis",
+                            "sint",
+                            "amet",
+                            "tempor"
+                          ]
+                }
+        ]
+}
